@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f8b0925-a248-424b-99e3-aca4aa39f6f4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BlackJack_POO" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TTlPSp9blR2fqrdDU4ItElzvKo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NT736704\IdeaProjects\BlackJack_POO\src\img" />
+      <recent name="C:\Users\NT736704\IdeaProjects\BlackJack_POO\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\NT736704\IdeaProjects\BlackJack_POO\src" />
+      <recent name="C:\Users\NT736704\IdeaProjects\BlackJack_POO\src\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BlackJackGUI">
+    <configuration name="BlackJackConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlackJackConsole" />
+      <module name="BlackJack_POO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlackJackGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlackJackGUI" />
+      <module name="BlackJack_POO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlackJackGUI" />
+        <item itemvalue="Application.BlackJackConsole" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f8b0925-a248-424b-99e3-aca4aa39f6f4" name="Default Changelist" comment="" />
+      <created>1573491942030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573491942030</updated>
+      <workItem from="1573491945464" duration="2596000" />
+      <workItem from="1573717560389" duration="36039000" />
+      <workItem from="1573946843300" duration="19235000" />
+      <workItem from="1574152336472" duration="838000" />
+      <workItem from="1574277329355" duration="17367000" />
+      <workItem from="1574332983773" duration="537000" />
+      <workItem from="1574409126877" duration="1055000" />
+      <workItem from="1574410220988" duration="102000" />
+      <workItem from="1574413632028" duration="595000" />
+      <workItem from="1574417442970" duration="967000" />
+      <workItem from="1574418457658" duration="610000" />
+      <workItem from="1574672776531" duration="1569000" />
+      <workItem from="1574942707886" duration="266000" />
+      <workItem from="1575745063813" duration="839000" />
+      <workItem from="1575836548035" duration="1703000" />
+      <workItem from="1575922598993" duration="20000" />
+      <workItem from="1576780341525" duration="1445000" />
+      <workItem from="1578056705275" duration="24000" />
+      <workItem from="1578231139410" duration="876000" />
+      <workItem from="1578485233899" duration="109000" />
+      <workItem from="1578494120771" duration="20000" />
+      <workItem from="1578574847062" duration="3921000" />
+      <workItem from="1578590386056" duration="2762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlackJackGUI.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
