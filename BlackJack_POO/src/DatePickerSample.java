@@ -53,7 +53,7 @@ public class DatePickerSample extends Application {
                                 ) {
                                     setDisable(true);
                                     setStyle("-fx-background-color: #ffc0cb;");
-                                }sour
+                                }
                                 long p = ChronoUnit.DAYS.between(
                                         checkInDatePicker.getValue(), item
                                 );
