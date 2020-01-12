@@ -1,4 +1,4 @@
-public class PCC extends RoomType {
+public class PCC {
     private Integer PhoneNumber;
     private Integer Checkin;
     private  Integer Checkout;

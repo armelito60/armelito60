@@ -16,7 +16,7 @@ public class MainForm {
             if(choose == 1) {
                 Account a1 = new Account();
                 SetName stnm = new SetName();
-                RoomType rt = new RoomType();
+                //RoomType rt = new RoomType();
                 PCC pcc = new PCC();
                 Food[] valuesArray = Food.values();
 
@@ -25,9 +25,9 @@ public class MainForm {
                 System.out.println("Room No : ");
                 stnm.setRoom(s.nextInt());
                 System.out.println("Room Type : ");
-                rt.setRoomType(s.next());
+                //rt.setRoomType(s.next());
                 System.out.println("Bed type : ");
-                rt.setBedType(s.next());
+                //rt.setBedType(s.next());
                 System.out.println("Phone number : ");
                 pcc.setPhoneNumber(s.nextInt());
                 System.out.println("Check in : ");
@@ -36,7 +36,7 @@ public class MainForm {
                 pcc.setCheckout(s.nextInt());
                 System.out.println("");
                 a1.display();
-                rt.display();
+                //rt.display();
                 stnm.display();
                 pcc.display();
                 System.out.println("");

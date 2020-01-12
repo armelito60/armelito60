@@ -1,25 +1,30 @@
-public class RoomType extends SetName {
-    private String RoomType;
-    private String BedType;
+public enum RoomType {
 
-    public void setRoomType(String RoomType) {
-        this.RoomType = RoomType;
+    Room1("Lit simple", "Standard"),
+    Room2("Lit simple", "Luxe"),
+    Room3("Lit double", "Standard"),
+    Room4("Lit double", "Luxe");
+
+    private String bedType;
+    private String classes;
+
+    RoomType(String bedType, String classes) {
+        this.bedType = bedType;
+        this.classes = classes;
     }
-
-    public void setBedType(String BedType) {
-        this.BedType = BedType;
+    public String toString() {
+        return this.bedType +" "+ this.classes;
     }
-
-    public String getRoomType() {
-        return this.RoomType;
-    }
-
     public String getBedType() {
-        return this.BedType;
+        return bedType;
+    }
+
+    public String getClasses() {
+        return classes;
     }
 
     public void display() {
-        System.out.println("Room Type : " + this.getRoomType());
+        System.out.println("Room Type : " + this.getClasses());
         System.out.println("Bed Type : " + this.getBedType());
     }
 

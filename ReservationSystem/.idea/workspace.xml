@@ -24,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Armel/Ecole/POO/jcalendar-1.4.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BlackJack_POO" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -51,6 +51,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.HotelGUI">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="ReservationSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HotelGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HotelGUI" />
       <module name="ReservationSystem" />
@@ -68,6 +75,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HotelGUI" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.MainForm" />
       </list>
     </recent_temporary>
@@ -85,7 +93,7 @@
       <workItem from="1578167105045" duration="11081000" />
       <workItem from="1578494138535" duration="1419000" />
       <workItem from="1578572613156" duration="6362000" />
-      <workItem from="1578587810002" duration="12999000" />
+      <workItem from="1578587810002" duration="48559000" />
     </task>
     <servers />
   </component>
@@ -102,5 +110,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WindowsCalendar.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
